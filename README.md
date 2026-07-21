@@ -12,6 +12,7 @@ Merged Pull Request:
 
 - docs: explain reducer arguments and add a custom reducers heading
 - https://github.com/langchain-ai/docs/pull/4736
+- https://github.com/meshery/meshery.io/pull/2779
 
 Highlights
 
